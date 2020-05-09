@@ -12,4 +12,4 @@
  
 4)Triggers are used to automatically update the values in the table of the database.
 
-5)THIS IS A PARTIALLY FINISHED PROJECT MADE ONLY TO WORK IN THE LOCAL ENVIRONMENT.(Pls dont borrow this)
+5)THIS IS A PARTIALLY FINISHED PROJECT MADE ONLY TO WORK IN THE LOCAL ENVIRONMENT.(Pls dont borrow this as the location is a little messed up)
